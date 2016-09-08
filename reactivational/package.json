@@ -1,7 +1,7 @@
 {
   "name": "reactivational",
   "version": "0.0.1",
-  "homepage": "http://jspell.github.io/reactivational/",
+  "homepage": "https://jspell.github.io/reactivational/",
   "private": true,
   "devDependencies": {
     "gh-pages-deploy": "0.4.2",
