@@ -1,6 +1,7 @@
 {
   "name": "reactivational",
   "version": "0.0.1",
+  "homepage":"jspell.github.io/reactivational/",
   "private": true,
   "devDependencies": {
     "react-scripts": "0.2.3"
