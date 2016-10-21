@@ -1,6 +1,10 @@
+.newClass {
+  background: red;
+}
+
 .App {
   text-align: center;
-  color: red;
+  color: lime;
 }
 
 .App-logo {
